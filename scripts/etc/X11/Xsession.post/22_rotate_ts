@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/usr/bin/hildon-desktop-rotate-touchscreen.sh

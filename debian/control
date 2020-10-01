@@ -1,0 +1,12 @@
+Source: hildon-desktop-rotation-support
+Section: x11
+Priority: optional
+Maintainer: Merlijn Wajer <merlijn@wizzup.org>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.3.0
+
+Package: hildon-desktop-rotation-support
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}, dbus-scripts
+Description: Rotation support (scripts) for hildon-desktop for Maemo Leste

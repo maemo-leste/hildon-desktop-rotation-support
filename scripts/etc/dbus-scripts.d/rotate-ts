@@ -1,0 +1,1 @@
+/usr/bin/hildon-desktop-rotate-touchscreen.sh * * com.nokia.hildon_desktop DesktopOrientationChanged
