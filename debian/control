@@ -8,5 +8,5 @@ Standards-Version: 4.3.0
 Package: hildon-desktop-rotation-support
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends}, dbus-scripts
+Depends: ${misc:Depends}, dbus-scripts, xinput, x11-xserver-utils
 Description: Rotation support (scripts) for hildon-desktop for Maemo Leste
