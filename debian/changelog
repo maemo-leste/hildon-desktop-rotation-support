@@ -1,3 +1,9 @@
+hildon-desktop-rotation-support (1.2) unstable; urgency=medium
+
+  * Exit with 0 in hildon-desktop-rotate-touchscreen.sh
+
+ -- Ivan J. <parazyd@dyne.org>  Tue, 12 Jan 2021 17:16:38 +0100
+
 hildon-desktop-rotation-support (1.1) unstable; urgency=medium
 
   * Update dependencies
