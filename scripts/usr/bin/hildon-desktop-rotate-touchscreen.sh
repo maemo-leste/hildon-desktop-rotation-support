@@ -19,3 +19,5 @@ for i in $tsids
 do
         xinput map-to-output $i $ctrc
 done
+
+exit 0
