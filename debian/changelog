@@ -1,9 +1,3 @@
-hildon-desktop-rotation-support (1.2) unstable; urgency=medium
-
-  * Add support for the fts_ts in the Xiaomi Pocophone F1
-
- -- venji10 <venji10@riseup.net>  Fri, 05 Mar 2021 22:59:14 +0100
-
 hildon-desktop-rotation-support (1.1) unstable; urgency=medium
 
   * Update dependencies
